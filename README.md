@@ -12,13 +12,12 @@
   <p> 📱 EasyVol - as part of the final project. </p>
   <p> 📱 ChatApp. </p>
   
-- In addition, I developed small programs in **React** as part of the React learning process.
+- In addition, I developed programs in **React** as part of the React learning process.
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<i class="fab fa-html5"></i>
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="40" height="40"/>  
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/> 
