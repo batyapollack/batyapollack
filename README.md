@@ -1,8 +1,25 @@
 <div align="center">
   <h1> <b> Hi, I'm Batya 🤗 </b> </h1>                   
-  <h3 align="center"> I am a junior developer and a computer science graduate </h3>
+  <p> I'm a <strong>Full-Stack Developer</strong> with 3+ years of hands-on experience, specializing in <strong>Vue.js</strong> on the frontend and <strong>Node.js (NestJS)</strong> on the backend. </p>
 </div>
- 
+
+<hr />
+
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Frontend</strong>: Vue.js, React, JavaScript, TypeScript, Next.js</li>
+  <li><strong>Backend</strong>: Node.js, NestJS</li>
+  <li><strong>Databases</strong>: MySQL, MongoDB</li>
+</ul>
+
+<hr />
+<h2>🎓 Education</h2>
+<p>
+<strong>B.Sc. in Computer Science</strong><br />
+GPA: 88.4
+</p>
+
+
  💡 Here you will find a number of projects I have built during and after the degree.
 
 - I wrote the projects in the following languages and technologies:
