@@ -19,7 +19,7 @@
 GPA: 88.4
 </p>
 
-
+<hr />
  💡 Here you will find a number of projects I have built during and after the degree.
 
 - I wrote the projects in the following languages and technologies:
