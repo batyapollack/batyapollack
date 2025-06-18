@@ -7,7 +7,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
-  <li><strong>Frontend</strong>: Vue.js, React, JavaScript, TypeScript, Next.js</li>
+  <li><strong>Frontend</strong>: Vue.js, React, JavaScript, TypeScript</li>
   <li><strong>Backend</strong>: Node.js, NestJS</li>
   <li><strong>Databases</strong>: MySQL, MongoDB</li>
 </ul>
